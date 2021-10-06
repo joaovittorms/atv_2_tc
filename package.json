@@ -1,0 +1,31 @@
+{
+  "name": "atividade-2--javascript",
+  "version": "1.0.0",
+  "main": "4",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeloisaSoaresUtpr/Atividade-2--Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeloisaSoaresUtpr/Atividade-2--Javascript/issues"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  },
+  "homepage": "https://github.com/HeloisaSoaresUtpr/Atividade-2--Javascript#readme",
+  "description": "",
+  "dependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
+    "jest": "^24.9.0",
+    "jest-xml-matcher": "^1.1.1"
+  }
+}
